@@ -1,0 +1,21 @@
+li{
+    display: inline-block;
+}
+
+.main-image{
+    width:80%;
+    height:50vh;
+    margin: 3rem auto;
+    display: block;
+}
+
+.team-selector{
+    width:80%;
+    height:50vh;
+    margin: 3rem auto;
+    display: block;
+}
+
+h3{
+    text-align:center;
+}
